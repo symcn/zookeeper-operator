@@ -1,0 +1,6 @@
+apiVersion: sts-workload.github.com/v1alpha1
+kind: ZookeeperCluster
+metadata:
+  name: zookeepercluster-sample
+spec:
+  # Add fields here
